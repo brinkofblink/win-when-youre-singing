@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: *.m4a
+Disallow: *.mp4
+Disallow: *.mp3
+Disallow: /assets/*.m4a
+Disallow: /assets/*.mp4
+Disallow: /assets/*.mp3
